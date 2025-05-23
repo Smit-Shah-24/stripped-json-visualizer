@@ -19,8 +19,6 @@ Here is what you need to be able to run the project.
 
 ## Development
 
-### Setup
-
 
 1. Install packages
 
